@@ -1,0 +1,2 @@
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\IoT.Azure.csproj;arm
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Raspberry.csproj;arm

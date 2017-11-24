@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="Raspberry.ViewDht11"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="492" Width="439">
+
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="40"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+    </Page.Resources>
+    
+    <Grid Background="Green">
+        <TextBlock Text="{x:Bind ViewModel.Temeperature}" HorizontalAlignment="Left" Margin="47,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="247" Width="137"/>
+        <TextBlock Text="{x:Bind ViewModel.Humidity}" HorizontalAlignment="Left" Margin="246,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="247" Width="137"/>
+        <Button HorizontalAlignment="Left" Margin="349,342,0,0" VerticalAlignment="Top" Command="{x:Bind ViewModel.UpdateData }">
+            <Button.Template>
+                <ControlTemplate>
+                    <Image Source="Assets/updateBtn.png" Width="10" Height="10"/>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Page>

@@ -1,0 +1,17 @@
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\bin\ARM\Debug\IoT.Azure.dll
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\bin\ARM\Debug\IoT.Azure.pdb
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\bin\ARM\Debug\IoT.Azure.pri
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\IoT.Azure.csproj.CoreCompileInputs.cache
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\IoT.Azure.dll
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\IoT.Azure.pdb
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\priconfig.xml
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\layout.resfiles
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\resources.resfiles
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\pri.resfiles
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\qualifiers.txt
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\MarosKo\Desktop\IoT\IoTUWP\Raspberry\IoT.Azure\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
